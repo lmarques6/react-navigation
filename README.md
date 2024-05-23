@@ -4,7 +4,7 @@
 [![Code Coverage][coverage-badge]][coverage]
 [![MIT License][license-badge]][license]
 
-Routing and navigation for your React Native apps.
+Routing and navigation for your React Native apps!
 
 Documentation can be found at [reactnavigation.org](https://reactnavigation.org/).
 
